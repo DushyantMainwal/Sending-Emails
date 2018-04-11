@@ -13,7 +13,10 @@ dependencies {
 }
 ```
 
-#With OAuth2:
+# With OAuth2:
 1) Go to https://console.developers.google.com/apis/
 2) Serach Gmail API
 3) Add your credentials
+
+# For More Info:
+Go to: https://developers.google.com/gmail/api/guides/sending 
